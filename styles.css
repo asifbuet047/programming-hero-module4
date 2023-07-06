@@ -89,3 +89,29 @@ fieldset {
     padding: 5px;
 
 }
+
+form {
+    margin: 5px;
+    border: 2px;
+    border-color: tomato;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 5px;
+
+}
+
+td {
+    border: 2px;
+    border-style: solid;
+    border-color: tomato;
+}
+
+table {
+    margin: 5px;
+    border: 5px;
+    border-color: black;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 5px;
+    border-collapse: collapse;
+}
