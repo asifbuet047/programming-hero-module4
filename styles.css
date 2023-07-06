@@ -1,0 +1,53 @@
+.header_div {
+    height: 100px;
+    display: flex;
+    background-image: linear-gradient(to top right, #00ff00, #0000ff);
+    margin: 5px;
+    border: 5px;
+    border-style: solid;
+    border-color: tomato;
+    border-radius: 5px;
+    padding: 5px;
+    justify-content: center;
+
+
+}
+
+.heading_h2 {
+    height: max-content;
+    color: red;
+    display: inline-block;
+    margin: 5px;
+    border: 2px;
+    border-style: solid;
+    border-color: tomato;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.navigation_div {
+    width: 40%;
+    height: 600px;
+    display: flex;
+    background-image: linear-gradient(to top right, #00ff00, #0000ff);
+    margin: 5px;
+    border: 5px;
+    border-style: solid;
+    border-color: tomato;
+    border-radius: 5px;
+    padding: 5px;
+    justify-content: center;
+
+}
+
+.navigation_h2 {
+    height: max-content;
+    color: red;
+    display: inline;
+    margin: 5px;
+    border: 2px;
+    border-style: solid;
+    border-color: tomato;
+    border-radius: 10px;
+    padding: 5px;
+}
